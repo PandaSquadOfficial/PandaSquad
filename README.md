@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a La Pagina Official de #PandaSquad
 
 You can use the [editor on GitHub](https://github.com/PandaSquadOfficial/PandaSquad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
